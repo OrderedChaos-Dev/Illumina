@@ -1,0 +1,16 @@
+itemGroup.tabIllumina=Illumina
+
+item.wax.name=Wax
+
+tile.campfire.name=Campfire
+tile.glowstone_lamp_wood.name=Wooden Glowstone Lamp
+tile.glowstone_lamp_stone.name=Stone Glowstone Lamp
+tile.glowstone_lamp_iron.name=Iron Glowstone Lamp
+tile.candle.name=Candle
+tile.lantern.name=Lantern
+tile.lava_lamp.name=Lava Lamp
+tile.lantern_candle.name=Candle Lantern
+tile.paper_lantern.name=Paper Lantern
+tile.lightbulb.name=Light Bulb
+tile.ceiling_lamp.name=Ceiling Lamp
+tile.circuit_breaker.name=Circuit Breaker

@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"hanging=false": { "model": "illumina:lantern" },
+		"hanging=true": { "model": "illumina:lantern_hanging" }
+	}
+}
+

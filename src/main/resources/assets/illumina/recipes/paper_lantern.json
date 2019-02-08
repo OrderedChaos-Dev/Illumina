@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XPX",
+		"PGP",
+		" P "
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:paper",
+			"data": 0
+		},
+		"X": {
+			"item": "minecraft:string",
+			"data": 0
+		},
+		"G": {
+			"item": "illumina:candle",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "illumina:paper_lantern",
+		"count": 1,
+		"data": 0
+	}
+}

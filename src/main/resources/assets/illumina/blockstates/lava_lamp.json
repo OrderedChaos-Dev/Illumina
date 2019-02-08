@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"hanging=false": { "model": "illumina:lava_lamp" },
+		"hanging=true": { "model": "illumina:lava_lamp_hanging" }
+	}
+}
+
