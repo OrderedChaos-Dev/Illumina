@@ -11,9 +11,9 @@ buildscript {
 
 apply plugin: 'net.minecraftforge.gradle.forge'
 
-def version = "1.0"
+def modVersion = "1.0"
 def mcVersion = "1.12.2"
-version = mcVersion + "-" + version
+version = mcVersion + "-" + modVersion
 group = "illumina"
 archivesBaseName = "Illumina"
 
@@ -27,7 +27,7 @@ minecraft {
     runDir = "run"
     mappings = "stable_nodoc_39"
     makeObfSourceJar = false
-    replace "{@version}":version
+    replace "{@version}":modVersion
 }
 
 processResources {

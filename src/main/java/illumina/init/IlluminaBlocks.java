@@ -54,7 +54,7 @@ public class IlluminaBlocks
 	
 	public static Block registerBlock(Block block, String name)
 	{
-		block.setUnlocalizedName(name);
+		block.setTranslationKey(name);
 		block.setCreativeTab(CreativeTabIllumina.instance);
 
 		block.setRegistryName(new ResourceLocation(Reference.MOD_ID, name));

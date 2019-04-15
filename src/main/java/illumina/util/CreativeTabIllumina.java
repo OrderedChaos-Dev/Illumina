@@ -14,7 +14,7 @@ public class CreativeTabIllumina extends CreativeTabs
 	}
 	
 	@Override
-	public ItemStack getTabIconItem()
+	public ItemStack createIcon()
 	{
 		return new ItemStack(IlluminaBlocks.lantern_candle);
 	}
